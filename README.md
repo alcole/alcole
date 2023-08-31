@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Alex Cole and I'm a
-. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Alex Cole and I'm a data solutions architect. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 
 ## &#x1f4c8; GitHub Stats
